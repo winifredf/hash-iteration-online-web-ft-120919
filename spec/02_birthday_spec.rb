@@ -22,6 +22,3 @@ end
       #"Sarah" => 6,
       #"Amanda" => 27
   ##old!\nYou are too old for this.\n").to_stdout
-
-  end
-end
